@@ -1,0 +1,21 @@
+{
+  "name": "vue-meme-1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.45",
+    "vue-localstorage": "^0.6.2",
+    "vue-router": "^4.1.6",
+    "vue-slider-component": "4.1.0-beta.7",
+    "vuejs-paginate-next": "^1.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
